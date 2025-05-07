@@ -1,0 +1,17 @@
+plp-page/
+├── components/
+│   ├── Header/
+│   ├── ProductCard/
+│   ├── Filters/
+│   ├── Pagination/
+│   └── Auth/
+├── pages/
+│   ├── api/ (for mock API routes)
+│   ├── _app.js
+│   ├── _document.js
+│   └── products.js (our PLP)
+├── styles/
+│   ├── globals.css
+│   └── Home.module.css
+├── public/ (for assets)
+└── utils/ (for API helpers)
